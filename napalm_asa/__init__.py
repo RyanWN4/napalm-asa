@@ -13,6 +13,6 @@
 # the License.
 
 """napalm-skeleton package."""
-from napalm_skeleton.skeleton import SkeletonDriver  # noqa
+from napalm_skeleton.skeleton import ASADriver  # noqa
 
-__all__ = ('SkeletonDriver',)
+__all__ = ('ASADriver',)
